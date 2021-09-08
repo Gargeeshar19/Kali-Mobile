@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE HTML>
 <html>
 <body>
 <pre>
@@ -40,6 +40,13 @@ AND CONNECT WITH USERNAME AND ADDERSS...!
 <h2>Update</h2>
 •cd kali-linux-termux
 •git pull
+<hr>
+<h1>
+License </h1>
+<h2> All other files are covered by the MIT license, see LINCENSE
+</h2>
+<hr>
+
 </p>
 </pre>
 </body>
